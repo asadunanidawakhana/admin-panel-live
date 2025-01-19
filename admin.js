@@ -369,6 +369,7 @@ function viewOrderDetails(orderIndex) {
         <div class="order-info">
             <p><strong>Customer Name:</strong> ${order.customerName}</p>
             <p><strong>Phone:</strong> ${order.phoneNumber}</p>
+            <p><strong>WhatsApp:</strong> ${order.whatsappNumber}</p>
             <p><strong>Address:</strong> ${order.address}</p>
             <p><strong>Age:</strong> ${order.age}</p>
             <p><strong>Gender:</strong> ${order.gender}</p>
